@@ -1,0 +1,52 @@
+Tester account private_key:
+952fc364c56ee1798db3774e619e91e6822c9a96e2500480e7ae4534a939d5fc
+
+flashloan deployed contract address:
+0x60320768568Be9fA766b1E2B3c40C47f1Fe49cf8
+0x5d10A41D942D353b5E37feceDEF6a1f4c0f8a501
+
+Sepolia USDC token contract address:
+0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238
+
+0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238,10000000 //10$
+
+chainstack api key: u1h7F7ny.fetLzWsMLsU6JeUZCFZhotYXAtsgXasI
+
+12/03:
+Dex contract address: 0x4df871857a2e37dEd52EFfeE4852441a48434818
+flashloanArbitrage address: 0xb209273cCe53c8c6059c44a2fC885Ee13FA68686
+
+13/03:
+Dex: 0xa074d44ee5bF50697C23EAf25337B7D868364961
+
+USDC: 1000000000 //1000$
+usdc token: 0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238
+
+14/03:
+Dex: 0x6D043f81E337Fa22AAd7e8E93949134411eBf545
+flashloan: 0x03cEa41Dc7c4fd6AfBc4F0C5102Fa40173595704
+
+Dex: 0xBFBb52192A73A86a211100cC9b241f593B7Ed6E8
+flashloan: 0xEBaCe1a653256333CFc35416007454294e91F2Fa
+
+15/04:
+Dex: 0xd1a35720f173E16cACdd1d7e312a541A75fC1E95
+0x152ACC336257BfCbAF1A4a5A11B93fB65099d341
+
+18/03:
+dex: 0x94e19749600139fFB63BdF42D2034031D14c9F3a
+flashloan: 0x1b1110F641DC1e7dF080aD2ee44B3ce392219076
+
+
+import {FlashLoanSimpleReceiverBase} from "https://github.com/aave/aave-v3-core/blob/master/contracts/flashloan/base/FlashLoanSimpleReceiverBase.sol";
+import {IPoolAddressesProvider} from "https://github.com/aave/aave-v3-core/blob/master/contracts/interfaces/IPoolAddressesProvider.sol";
+import {IERC20} from "https://github.com/aave/aave-v3-core/blob/master/contracts/dependencies/openzeppelin/contracts/IERC20.sol";
+
+20/03:
+dex: 0x141e25dE5eb4Bff85DCBCBD311a1e748C691c3a1
+flashloan: 0x8937d7A35e6C8DC13363fCEeef6fF7054D9e63EF
+
+success txn hash: 0xbf92c426c8b52b2a900e77ded935dc1781dc05234805d18136a825ba43d5c4d9
+
+
+
